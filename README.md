@@ -34,6 +34,7 @@ In portfolio.html
 *.Navbar
 *.card-layout
 *footer
+
 In contact.html
 *.div
 *.ul
