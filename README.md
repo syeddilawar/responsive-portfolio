@@ -7,13 +7,13 @@ This is Responsive Portfolio website. This website adjuest the size depending on
 *.bottstrap.
 *.Googlefonts.
 
-### Pages of Website.
+## Pages of Website.
 *.about.html
 *.Portfolio.html
 *.Contact.html
 *.Style.css
 
-### Tags have been used.
+## Tags have been used.
 In About.html file
 *.div
 *.ul
@@ -44,6 +44,13 @@ In contact.html
 *.Navbar
 *.form
 
-### Code Screenshots.
+## Code Screenshots.
 <img width="774" alt="Screen Shot 2020-07-26 at 9 42 26 PM" src="https://user-images.githubusercontent.com/66503170/88504269-10f23780-cf89-11ea-9e17-c209869bec72.png">
-#### Website Screenshots.
+## Github URL 
+https://github.com/syeddilawar
+
+#### linkedin URL 
+www.linkedin.com/in/wasim-dilawer-4280a195
+
+
+
