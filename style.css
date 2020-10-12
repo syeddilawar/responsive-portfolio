@@ -23,3 +23,9 @@ h1 {
 h5 {
   text-align: center;
 }
+.card {
+  background-color: lightgray;
+}
+.card:hover {
+  transform: scale(1.1);
+}
