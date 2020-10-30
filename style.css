@@ -1,14 +1,24 @@
 body {
-  background-color: white;
+  background-color: black;
 }
 .container {
   margin: 50px;
-  background-color: rgb(245, 245, 245);
+  margin-top: 20px;
+  background-image: url("./page image/developer-here.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
   padding: 100px;
   font-family: "Josefin Sans", sans-serif;
 }
 h1 {
-  color: green;
+  color: white;
+}
+h2 {
+  color: white;
+  text-decoration: dotted;
+}
+p {
+  color: white;
 }
 .footer {
   margin-top: 50px;
@@ -24,8 +34,13 @@ h5 {
   text-align: center;
 }
 .card {
-  background-color: lightgray;
+  background-color: black;
+  border-color: white;
+  padding: 10px;
 }
 .card:hover {
   transform: scale(1.1);
+}
+.img-thumbnail {
+  border-radius: 20%;
 }
