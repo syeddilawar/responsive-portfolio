@@ -1,12 +1,28 @@
 body {
   background-color: black;
 }
-.container {
-  margin: 50px;
+.container1 {
+  margin: 10%;
   margin-top: 20px;
   background-image: url("./page image/developer-here.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+
+  padding: 100px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.container2 {
+  margin: 10%;
+  margin-top: 5px;
+
+  padding: 100px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.container3 {
+  margin: 10%;
+  margin-top: 20px;
+  background-image: url("./page image/code.jpg");
+  background-repeat: no-repeat;
+
   padding: 100px;
   font-family: "Josefin Sans", sans-serif;
 }
